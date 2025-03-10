@@ -1,0 +1,28 @@
+cookie:
+  expiry_days: 0.5
+  key: cvs
+  name: cvs
+credentials:
+  usernames:
+    janedoe@mamba.com:
+      email: janedoe@mamba.com
+      failed_login_attempts: 3
+      first_name: Jane
+      last_name: Doe
+      logged_in: false
+      password: $2b$12$ar.tPGV99sMzpMAhk4zZk.l4Do26pvlgw2wk31kP/s7SiSsKcawqu
+      roles:
+      - admin
+      - editor
+      - viewer
+    johndoe@mamba.com:
+      email: johndoe@mamba.com
+      failed_login_attempts: 3
+      first_name: John
+      last_name: Doe
+      logged_in: false
+      password: $2b$12$l/U2yqUYwyceU936yfR/cuGq4.oUqj6i10mJnc2n3eUr.RGxrwJx.
+      roles:
+      - admin
+      - editor
+      - viewer
